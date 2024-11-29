@@ -1,4 +1,6 @@
 .img-profile {
-    width: 150px; /* Adjust the size to your preference */
-    height: 150px;
+    width: 150px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the icon */
 }
