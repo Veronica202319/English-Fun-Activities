@@ -1,11 +1,11 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "freelancer-theme-jekyll"
+  spec.name                    = "Free English Resources"
   spec.version                 = "1.0.1"
   spec.authors                 = ["Start Bootstrap"]
 
-  spec.summary                 = %q{Freelancer is a one page Bootstrap portfolio theme for freelancers.}
+  spec.summary                 = %q{This is a website for teachers, students and parents to have access to differnet types of english materials}
   spec.homepage                = "https://github.com/jeromelachaud/freelancer-theme"
   spec.licenses                = ["MIT"]
 
